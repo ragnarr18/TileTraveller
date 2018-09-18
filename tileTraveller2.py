@@ -27,5 +27,14 @@ def east(direction):
     else:
         return False
 
+print("You can travel: (N)orth")
 
-while
+counter_for_x = 1 
+counter_for_y = 1 
+
+victory = False
+
+while not victory:
+    direction = input("Direction: ")
+    if counter_for_x == 1 and counter_for_y == 1:
+        
