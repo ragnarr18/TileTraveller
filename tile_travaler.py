@@ -1,3 +1,14 @@
+#you begin in the axes x=1 and y=1
+#program gives you your position
+#program tells you where you can go from (nsew)
+#if your input is within the given directions available, you move
+#if your input is not within the given directions available, you don't move
+#the program finishes when you have reached x=3 and y=1
+#program prints "Victory!"
+
+
+
+
 counter_for_x = 1
 counter_for_y = 1
 
