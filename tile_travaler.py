@@ -61,8 +61,8 @@ while not victory:
             print("(S)outh or (W)est.")
             possible_dir= 'sw'
 
-print('')
-print("Victory!") 
+
+print("Victory!",sep='') 
     
     
 
